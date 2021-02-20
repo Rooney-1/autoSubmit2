@@ -304,7 +304,7 @@ func saveSqxx(sid string) string {
 		Xjsm: "08",
 		Jd: "燕园街道",
 		Bcsm: "",
-		Crxxdgj: "北大东南门-物理学院-北大东南门",
+		Crxxdgj: "北大东南门-物理学院-东南门",
 		Dfx14Qrbz: "y",
 		Sfyxtycj: "",
 		Tjbz: "",
